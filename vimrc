@@ -41,7 +41,6 @@ let g:syntastics_javascript_checkers = ['eslint']
 
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdcommenter'
-Plugin 'valloric/youcompleteme'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'ervandew/supertab'
 Plugin 'bling/vim-airline'
@@ -49,6 +48,8 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'Yggdroot/indentLine'
 Plugin 'Chiel92/vim-autoformat'
+Plugin 'raimondi/delimitmate'
+Plugin 'shougo/neocomplete.vim'
 
 "Highlighting
 Plugin 'pangloss/vim-javascript'
